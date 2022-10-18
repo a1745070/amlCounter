@@ -1,0 +1,7 @@
+ID: 1 walking south at Tue Oct 18 12:38:49 2022
+ID: 2 walking south at Tue Oct 18 12:38:55 2022
+ID: 3 walking south at Tue Oct 18 12:39:01 2022
+ID: 5 walking north at Tue Oct 18 12:39:02 2022
+ID: 7 walking south at Tue Oct 18 12:39:05 2022
+ID: 9 walking north at Tue Oct 18 12:39:06 2022
+ID: 10 walking north at Tue Oct 18 12:39:06 2022
